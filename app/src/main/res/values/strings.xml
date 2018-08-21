@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MetaWeather App</string>
+    <string name="location">Location</string>
+    <string name="perm_location">Location permission is required</string>
+    <string name="err_missing_location">Location is required!</string>
+    <string name="search_activity_title">Location: %s</string>
+    <string name="search_activity_title_latlng">Lat %1$s | Lng %2$s</string>
+    <string name="dialog_title_search_result_empty">Location Not Found</string>
+    <string name="dialog_msg_search_result_empty">Could not find any location(s) as \"%1$s\".\nMake sure your search is spelled correctly. Try adding a city, state, or region.</string>
+    <string name="current_location">Current Location</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="search_history">Search History</string>
+    <string name="search">Search</string>
+    <string name="id">ID</string>
+    <string name="title">Title</string>
+    <string name="type">Type</string>
+    <string name="weather">Weather</string>
+    <string name="weather_activity_title">Weather for %1$s</string>
+    <string name="date">Date</string>
+    <string name="min">Min</string>
+    <string name="max">Max</string>
+    <string name="fahrenheit">℉</string>
+    <string name="celsius">℃</string>
+    <string name="today">Today</string>
+</resources>
